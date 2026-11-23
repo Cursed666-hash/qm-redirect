@@ -1,5 +1,5 @@
 {
-  "url": "https://localhost:3000",
-  "updated_at": "2026-11-23T00:00:00Z",
-  "note": "QuarterMaster tunnel redirect target. Updated automatically by the QuarterMaster dashboard when the Cloudflare tunnel URL changes."
+    "updated_at":  "2026-11-23T03:17:50.0557578-07:00",
+    "url":  "https://nylon-plants-substances-deer.trycloudflare.com",
+    "note":  "QuarterMaster tunnel redirect target. Updated automatically by the QuarterMaster dashboard when the Cloudflare tunnel URL changes."
 }
