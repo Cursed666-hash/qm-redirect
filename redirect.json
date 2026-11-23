@@ -1,0 +1,5 @@
+{
+  "url": "https://localhost:3000",
+  "updated_at": "2026-11-23T00:00:00Z",
+  "note": "QuarterMaster tunnel redirect target. Updated automatically by the QuarterMaster dashboard when the Cloudflare tunnel URL changes."
+}
